@@ -1,0 +1,9 @@
+[package]
+name = "genere-server"
+version = "0.1.0"
+authors = ["Elisabeth Henry <liz.henry@ouvaton.org>"]
+edition = "2018"
+
+[dependencies]
+rouille = "3"
+genere = "0.1"
